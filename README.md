@@ -6,6 +6,8 @@ This project is an interactive Excel dashboard built using the Microsoft Adventu
 
 The main goal of this project was to practice Excel-based business intelligence, data modeling, Pivot Tables, Power Pivot, slicers, KPI cards, and dashboard design.
 
+[▶️ Watch Excel Dashboard Demo](./Images/ExcelDashboards.mp4)
+
 ## Dashboards Included
 
 ### 1. Revenue & Profit Trend Analysis
